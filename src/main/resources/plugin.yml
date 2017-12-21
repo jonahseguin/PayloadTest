@@ -1,0 +1,6 @@
+name: PayloadTest
+main: com.jonahseguin.payloadtest.PayloadTest
+version: 1.0-SNAPSHOT
+author: Jonah Seguin
+description: Payload testing plugin
+website: https://jonahseguin.com
